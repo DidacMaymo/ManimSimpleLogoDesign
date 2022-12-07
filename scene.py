@@ -1,4 +1,4 @@
-from Manim import *
+from manim import *
 
 class logo(Scene):
     def construct(self):
